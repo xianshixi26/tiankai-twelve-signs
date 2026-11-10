@@ -1,0 +1,10 @@
+# Godot
+.godot/
+
+# 临时文件
+*.tmp
+*.log
+
+# 导出产物
+exports/
+*.exe
