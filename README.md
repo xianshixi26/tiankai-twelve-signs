@@ -49,4 +49,4 @@
 
 ## 📜 素材说明
 
-像素素材由 AI 生成（Meowa Studio）+ 人工修帧；生成资产授权凭证见 [docs/evidence/](docs/evidence/)。本项目为非商业作品集 Demo。
+像素素材由 AI 生成（Meowa Studio 付费档，商用所有权归开发者）+ 人工修帧；生成资产授权凭证见 [docs/evidence/](docs/evidence/)。本项目为非商业作品集 Demo。
